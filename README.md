@@ -7,4 +7,7 @@ Create the table in Example1.png. PUSH ONCE COMPLETE.
 Create a table for YouTube videos. Create 4 columns: the YouTube video, channel name, video name (with a link to the video), and the date it was uploaded. PUSH ONCE COMPLETE.
 
 ### Example 3
-Create a 3x3 image portfolio using the images in the ImagesForExample3 directory.
+Create a 3x3 image portfolio using the images in the ImagesForExample3 directory. PUSH ONCE COMPLETE.
+
+### Example 4
+Create a channel guide similar to Example 4. PUSH ONCE COMPLETE.
